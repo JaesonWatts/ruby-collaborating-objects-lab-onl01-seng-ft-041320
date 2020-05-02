@@ -20,7 +20,7 @@ class Artist
   end
 
   def save
-    
+
     self
   end
 
